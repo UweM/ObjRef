@@ -11,7 +11,7 @@
         "mockery/mockery": "dev-master@dev",
         "phpunit/phpunit": "^5.2",
         "doctrine/annotations": "dev-master@dev"
-    }
+    },
     "autoload": {
         "psr-4": { "ObjRef\\": "" }
     }
