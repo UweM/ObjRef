@@ -58,6 +58,13 @@ class Generator implements GeneratorInterface{
     }
 
     /**
+     * @return string
+     */
+    public function getProxyNamespace() {
+        return $this->proxyNamespace;
+    }
+
+    /**
      * @param $classFQCN
      * @return string
      */
