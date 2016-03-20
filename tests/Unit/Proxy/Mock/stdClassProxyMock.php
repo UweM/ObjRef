@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace ObjRef\Transport;
+namespace TESTSPACE;
 
-interface Transport {
-    public function send($cmd);
-    public function recv();
+class stdClass extends \stdClass {
+
 }
+ 
