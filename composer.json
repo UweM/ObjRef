@@ -10,6 +10,6 @@
         "zendframework/zend-code": "2.6.2",
         "mockery/mockery": "dev-master@dev",
         "phpunit/phpunit": "^5.2",
-        "doctrine/annotations": "dev-master@dev"
+        "doctrine/annotations": "^1.2.0"
     }
 }
